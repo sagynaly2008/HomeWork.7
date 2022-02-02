@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeWork.7</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sea">joshua_l The game in Japan was amazing and I want to share some photos</string>
+    <string name="digital_goodies_designer_pixsellz_neverything_is_designed">Digital goodies designer @pixsellz\nEverything is designed.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
